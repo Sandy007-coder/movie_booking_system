@@ -21,6 +21,7 @@ This project is a CLI-based Movie Booking System developed using Python that sim
 * JSON (Data Storage)
 * File Handling (TXT Reports)
 * Logging Module
+
 ## 📁 Project Structure
 
 movie-booking-system/
@@ -43,6 +44,7 @@ movie-booking-system/
 ├── main.py
 ├── README.md
 ├── .gitignore
+
 ## ▶️ How to Run
 
 1. Clone the repository
@@ -61,6 +63,7 @@ python main.py
 or
 
 python3 main.py
+
 ## 📈 Results
 
 - Successfully simulates a real-world movie ticket booking system  
@@ -68,7 +71,8 @@ python3 main.py
 - Supports dynamic pricing based on screen type  
 - Provides booking history, search, and cancellation features  
 - Generates ticket receipts in TXT and JSON formats  
-- Maintains logs for tracking user actions  
+- Maintains logs for tracking user actions 
+ 
 ## 🔮 Future Improvements
 
 * Add GUI using Tkinter or Web interface (Flask/Django)
@@ -76,6 +80,7 @@ python3 main.py
 * Add user authentication system
 * Improve seat visualization with graphics
 * Deploy as a web application
+
 ## 🎯 Learning Outcomes
 
 * Gained hands-on experience with Python and CLI application development
@@ -83,6 +88,7 @@ python3 main.py
 * Implemented file handling using JSON and text files
 * Designed a seat management system to prevent double booking
 * Improved problem-solving and project structuring skills
+
 ## 👨‍💻 Author
 
 Sarveswaran S
