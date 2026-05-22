@@ -50,20 +50,20 @@ movie-booking-system/
 
 1. Clone the repository
 
-• git clone https://github.com/Sandy007-coder/movie-booking-system.git
+   git clone https://github.com/Sandy007-coder/movie-booking-system.git
 
 
 2. Navigate to the project folder
 
-• cd movie-booking-system
+   cd movie-booking-system
 
 3. Run the application 
 
-• python main.py
+   python main.py
 
 or
 
-python3 main.py
+   python3 main.py
 ## 📈 Results
 
 - Successfully simulates a real-world movie ticket booking system  
