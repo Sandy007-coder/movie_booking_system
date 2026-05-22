@@ -20,7 +20,7 @@ movies = [
     "Thunivu"
 ]
 
-# Screens (now 5 screens)
+# Screens 
 screens = ["Screen 1", "Screen 2", "Screen 3", "Screen 4", "Screen 5"]
 
 # Price per screen
