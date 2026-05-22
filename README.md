@@ -59,12 +59,8 @@ movie-booking-system/
 
 3. Run the application 
 
-   python main.py
-
-or
-
    python3 main.py
-   
+ 
 ## 📈 Results
 
 - Successfully simulates a real-world movie ticket booking system  
