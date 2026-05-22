@@ -208,7 +208,7 @@ def view_bookings():
 
 
 # ----------------------------
-# SEARCH (IMPROVED OUTPUT)
+# SEARCH BOOKING 
 # ----------------------------
 def search_booking():
     keyword = input("Enter movie or city: ").strip().lower()
@@ -246,7 +246,7 @@ def search_booking():
 
 
 # ----------------------------
-# CANCEL (IMPROVED SAFE DELETE)
+# CANCEL BOOKING 
 # ----------------------------
 def cancel_booking():
     bid = input("Enter Booking ID: ").strip()
