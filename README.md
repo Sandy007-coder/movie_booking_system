@@ -1,5 +1,5 @@
 
-# 🎬 🎬 Movie Ticket Booking System | Python + SQLite
+# 🎬 Movie Ticket Booking System | Python + SQLite
 
 A command-line based Movie Ticket Booking System developed using Python and SQLite. This application simulates a real-world cinema booking workflow, allowing users to select cities, theatres, movies, screens, and show timings, along with interactive seat selection.
 It includes features like dynamic pricing based on screen type, booking management (view, search, cancel), and persistent data storage using SQLite, JSON, and text files. The project is designed with a modular structure, logging system, and environment-based configuration, making it scalable, maintainable, and suitable for demonstrating backend development skills.
