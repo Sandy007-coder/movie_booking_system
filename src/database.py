@@ -27,7 +27,7 @@ def create_table():
 
     if table_exists:
         # ----------------------------
-        # CHECK COLUMNS (important fix)
+        # CHECK COLUMNS 
         # ----------------------------
         cursor.execute("PRAGMA table_info(bookings)")
         columns = [col[1] for col in cursor.fetchall()]
@@ -38,7 +38,7 @@ def create_table():
             cursor.execute("DROP TABLE bookings")
 
     # ----------------------------
-    # CREATE TABLE (final schema)
+    # CREATE TABLE 
     # ----------------------------
     cursor.execute("""
     CREATE TABLE IF NOT EXISTS bookings(
